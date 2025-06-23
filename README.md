@@ -1,6 +1,4 @@
-{ https://wooded-toque-7cf.notion.site/SEM-4-21b505faa9cd8095b13afd47a38a6891 ]
-
-[cse_syllabus.pdf](attachment:9a171a01-e4e5-491b-811c-678b5addfeff:cse_syllabus.pdf)
+# 📚 Resources Hub
 
 # 📅 Exam Calendar
 
@@ -13,9 +11,31 @@
 | 07 July | Monday | 📊 Theory of Automata & Formal Languages (TAFL) |
 | 09 July | Wednesday | 📚 Operating System (OS) |
 
+## 🌟 Notion Page
+
+[![Notion Page](https://img.shields.io/badge/Visit-Notion%20Page-8E7AB5?style=for-the-badge&logo=notion&logoColor=white)](https://wooded-toque-7cf.notion.site/SEM-4-21b505faa9cd8095b13afd47a38a6891)
+
+
+
+
+## 🚀 Google Drive Resources
+
+[![Google Drive](https://img.shields.io/badge/Open-Google%20Drive-34A853?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tcmJkLsvjGRJwQ_NwWuHf7Uka6lWtjhi?usp=sharing)
+
+[![Google Drive (Backup)](https://img.shields.io/badge/Backup-Google%20Drive-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/1tcmJkLsvjGRJwQ_NwWuHf7Uka6lWtjhi?usp=sharing)
+
+
+## 📄 Syllabus Download
+
+[![Download Syllabus](https://img.shields.io/badge/Download-Syllabus-FF6F61?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white)](attachment:9a171a01-e4e5-491b-811c-678b5addfeff:cse_syllabus.pdf)
+
+
+# Detailed Breakdown
+
+
 # 💻 Digital Electronics
 
----
+
 
 ## Unit I: Number Systems and Logic Gates
 
