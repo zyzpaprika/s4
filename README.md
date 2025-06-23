@@ -1,5 +1,3 @@
-sem 4 stuff
-
 { https://wooded-toque-7cf.notion.site/SEM-4-21b505faa9cd8095b13afd47a38a6891 ]
 
 [cse_syllabus.pdf](attachment:9a171a01-e4e5-491b-811c-678b5addfeff:cse_syllabus.pdf)
