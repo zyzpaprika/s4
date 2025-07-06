@@ -2,14 +2,25 @@
 
 # 📅 Exam Calendar
 
-| Date | Day | Subject |
-| --- | --- | --- |
-| 27 June | Friday | 🌱 Universal Human Values (UHV) |
-| 30 June | Monday | 🔒 Cyber Security (CS) |
-| 02 July | Wednesday | 💻 Digital Electronics (D.E) |
-| 04 July | Friday | ☕ OOPs with Java (OOP) |
-| 07 July | Monday | 📊 Theory of Automata & Formal Languages (TAFL) |
-| 09 July | Wednesday | 📚 Operating System (OS) |
+
+
+| Date | Subject |
+| --- | --- |
+| 7 July | 🌱 Universal Human Values (UHV) |
+| 9 July | 🔒 Cyber Security (CS) |
+| 11 July | 💻 Digital Electronics (D.E) |
+| 14 July | ☕ OOPs with Java (OOP) |
+| 16 July | 📊 Theory of Automata & Formal Languages (TAFL) |
+| 18 July | 📚 Operating System (OS) |
+
+
+
+
+
+
+
+
+
 
 ## 🌟 Notion Page
 
